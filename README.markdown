@@ -29,11 +29,26 @@ npm install datetime
 npm install js-yaml
 ```
 
-
 #usage
 
 ```js
 var t2md = require('../');
 
 t2md('./Tistory-Data.xml', 'Author');
+```
+
+#export
+
+```
+-------------------------------------------
+...
+
+converted  JavaScript 비젼과 함께 했던 나의 H3 컨퍼런스 - 발표자 후기 :)
+origin : 4695 byte, markdown : 77 byte
+../articles/2011-12-02-javascript-bijyeongwa-hamgge-haessdeon-nayi-h3-keonpeoreonseu-balpyoja-hugi-).markdown
+
+...
+-------------------------------------------
+total:  346  converted
+-----------------------------------------
 ```
