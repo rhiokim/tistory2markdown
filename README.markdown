@@ -14,11 +14,18 @@ git submodule update --init
 * datetime
 
 **install npm module**
+
 ```
+//tistory xml 데이터를 json 으로 컨버팅하기 위한 모듈
 npm install xml2js
+
+//html 파싱 모듈
 npm install htmlparser
+
+//date 포맷팅 모듈
 npm install datetime
 ```
+
 
 #usage
 
