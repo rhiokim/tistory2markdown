@@ -1,0 +1,15 @@
+{ title: 'test2',
+  author: 'tistory2markdown',
+  date: Invalid Date,
+  link: '/',
+  category: [],
+  tags: undefined,
+  prop: 
+   { acceptComment: '1',
+     acceptTrackback: '1',
+     published: '1327043501',
+     modified: '1327043501',
+     visibility: 'private' } }
+
+test<div class="vimiumHUD" style="right: 150px; opacity: 0; display: none; ">
+</div>

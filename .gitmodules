@@ -1,0 +1,9 @@
+[submodule "modules/sanitizer"]
+	path = modules/sanitizer
+	url = https://github.com/theSmaw/Caja-HTML-Sanitizer.git
+[submodule "modules/to-markdown"]
+	path = modules/to-markdown
+	url = https://github.com/domchristie/to-markdown.git
+[submodule "modules/stringex"]
+	path = modules/stringex
+	url = https://github.com/bitwalker/stringex.git
