@@ -1,4 +1,3 @@
 {"title":"test2","author":"tistory2markdown","date":"2012-01-20T07:11:41.000Z","link":"/","category":[],"prop":{"acceptComment":"1","acceptTrackback":"1","published":"1327043501","modified":"1327043501","visibility":"private"}}
 
-test<div class="vimiumHUD" style="right: 150px; opacity: 0\. display: none; ">
-</div>
+test
