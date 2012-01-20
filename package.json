@@ -1,0 +1,16 @@
+{
+  "author": "Rhio Kim <rhio.kim@gmail.com> (http://about.me/rhiokim)",
+  "name": "tistory2markdown",
+  "description": "티스토리 블로그 데이터 markdown 컨버터",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rhiokim/tistory2markdown",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rhiokim/tistory2markdown.git"
+  },
+  "engines": {
+    "node": "~0.6.6"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
