@@ -24,6 +24,9 @@ npm install htmlparser
 
 //date 포맷팅 모듈
 npm install datetime
+
+//StringEx
+npm install js-yaml
 ```
 
 
